@@ -126,7 +126,7 @@ I have worked with for some time
 <br/>
 
 
-
+<!--
 
 ## Conhecimentos / Knowledges
 

@@ -6,7 +6,7 @@ Full-Stack | Software engineer | Cloud engineer (In progress)
 
 I started in software development in 2015, with a few projects for markets, clinics and agricultural companies. Now I am working in Banco de Chile
 
-📺 [My website Portafolio](https://drojaslopez.github.io/Portafolio/)
+📺 [My website Portafolio](https://drojaslopez.github.io/portafolio/)
 📂 [My online CV](https://)
 
 
